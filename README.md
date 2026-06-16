@@ -1,4 +1,4 @@
-# debarratimmishra
+# debapratimmishra
 Config files for my GitHub profile.
 # Hi there 👋 I am Debapratim Mishra
 
